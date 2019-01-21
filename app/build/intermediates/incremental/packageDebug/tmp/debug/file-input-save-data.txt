@@ -1,0 +1,7 @@
+#Internal package file, do not edit.
+#Mon Jan 21 20:56:36 ICT 2019
+0.baseType=DIRECTORY
+0.base=C\:\\Users\\Cong\\Downloads\\Lab3-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+0.path=classes.dex
+0.set=DEX
+count=1

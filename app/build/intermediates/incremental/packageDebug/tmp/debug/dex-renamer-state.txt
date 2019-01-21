@@ -1,0 +1,4 @@
+#Mon Jan 21 23:13:39 ICT 2019
+base.0=C\:\\Users\\Cong\\Downloads\\Lab3-master\\app\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
